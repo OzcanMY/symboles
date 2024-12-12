@@ -1,0 +1,34 @@
+± Plus ou moins
+≈ Environ
+≠ Différent
+∞ Infini
+≤ Inférieur ou égal
+≥ Supérieur ou égal
+Σ Somme
+Π Produit
+∫ Intégrale
+∀ Pour tout
+∈ Appartient
+∉ N'appartient pas
+∃ Il existe au moins 1
+∃! Il existe un unique
+∄ Il n'existe pas
+| Tel que
+⊂ Inclu
+⊄ Non inclu
+⇒ Implique
+⇔ Equivalent
+∩ Inter
+∪ Union
+⊥ Perpendiculaire
+α alpha
+β beta
+γ gamma
+Δ Delta
+δ delta
+ε epsilon
+η eta
+θ theta
+λ lambda
+Ω Omega
+ω omega
